@@ -7,6 +7,8 @@ Run `npm i -S react-scripts`.
 
 Run `npm install react-icons`.
 
+Run `npm install swiper`.
+
 Run `npm start`.
 
 https://stackoverflow.com/questions/52823393/react-scripts-is-not-recognized-as-an-internal-or-external-command

@@ -1,11 +1,6 @@
 import React from 'react'
 import './portfolio.css'
 import img1 from '../../assets/portfolio1.png'
-import img2 from '../../assets/portfolio2.png'
-import img3 from '../../assets/portfolio3.png'
-import img4 from '../../assets/portfolio4.jfif'
-import img5 from '../../assets/portfolio5.png'
-import img6 from '../../assets/portfolio6.png'
 
 
 const data = [
@@ -18,36 +13,36 @@ const data = [
   },
   {
     id:2,
-    image:img2,
-    title:"Maze Solver",
+    image:img1,
+    title:"[Placeholder 1]",
     github:"https://github.com",
     demo:"https://github.com"
   },
   {
     id:3,
-    image:img3,
-    title:"Maze Solver",
+    image:img1,
+    title:"[Placeholder 2]",
     github:"https://github.com",
     demo:"https://github.com"
   },
   {
     id:4,
-    image:img4,
-    title:"Maze Solver",
+    image:img1,
+    title:"[Placeholder 3]",
     github:"https://github.com",
     demo:"https://github.com"
   },
   {
     id:5,
-    image:img5,
-    title:"Maze Solver",
+    image:img1,
+    title:"[Placeholder 4]",
     github:"https://github.com",
     demo:"https://github.com"
   },
   {
     id:6,
-    image:img6,
-    title:"Maze Solver",
+    image:img1,
+    title:"[Placeholder 5]",
     github:"https://github.com",
     demo:"https://github.com"
   }
